@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zayts\\Desktop\\Dev\\PROJECT\\dev-skillbox-module34\\QtWidgetsApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D00EE9A5-2878-4E71-9BE9-6B97858B03F5}|QtWidgetsApplication1.vcxproj|C:\\Users\\Zayts\\Desktop\\Dev\\PROJECT\\dev-skillbox-module34\\QtWidgetsApplication1\\QtWidgetsApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D00EE9A5-2878-4E71-9BE9-6B97858B03F5}|QtWidgetsApplication1.vcxproj|solutionrelative:QtWidgetsApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QtWidgetsApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Zayts\\Desktop\\Dev\\PROJECT\\dev-skillbox-module34\\QtWidgetsApplication1\\QtWidgetsApplication1.cpp",
+              "RelativeDocumentMoniker": "QtWidgetsApplication1.cpp",
+              "ToolTip": "C:\\Users\\Zayts\\Desktop\\Dev\\PROJECT\\dev-skillbox-module34\\QtWidgetsApplication1\\QtWidgetsApplication1.cpp",
+              "RelativeToolTip": "QtWidgetsApplication1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T11:21:37.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
